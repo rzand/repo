@@ -1,3 +1,3 @@
 # repo
-My first repository 
+My first repository.
 Hopefully there will be something useful in here one day!
